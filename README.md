@@ -1,4 +1,4 @@
 # ProgUzytkowe
 # Adam Suski
 ## Opis projektu
-Krótkie podsumowanie projektu
+Krotkie podsumowanie projektu
